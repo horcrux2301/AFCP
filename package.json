@@ -1,0 +1,19 @@
+{
+  "name": "cp-automation",
+  "main": "./lib/cp-automation",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "cp-automation:toggle"
+  },
+  "repository": "https://github.com/atom/cp-automation",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "import": "0.0.6",
+    "python-shell": "^0.5.0"
+  }
+}

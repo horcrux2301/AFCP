@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cp-automation",
+        "command": "cp-automation:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cp-automation",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cp-automation:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
