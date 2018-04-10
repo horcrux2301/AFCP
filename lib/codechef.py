@@ -1,4 +1,3 @@
-import pyautogui
 import urllib.request
 from bs4 import BeautifulSoup
 import time
