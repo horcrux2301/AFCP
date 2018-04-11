@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-k": "cp-automation:toggle"
+    "ctrl-alt-k": "cp-automation:toggle",
+    "ctrl-alt-c": "cp-automation:compile"
   }
 }

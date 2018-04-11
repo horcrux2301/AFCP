@@ -4,6 +4,10 @@
       {
         "label": "Toggle cp-automation",
         "command": "cp-automation:toggle"
+      },
+      {
+        "label": "Compile cp-automation",
+        "command": "cp-automation:compile"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Toggle",
               "command": "cp-automation:toggle"
+            },
+            {
+              "label": "Compile",
+              "command": "cp-automation:compile"
             }
           ]
         }

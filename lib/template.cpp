@@ -4,7 +4,7 @@
 #include <string>
 #include <cmath>
 #include <vector>
-#define ll long long
+#define ll long long;
 #define si scanf("%d",&n)
 #define sl scanf("%lld",&n)
 #define pi printf("%d",n)
