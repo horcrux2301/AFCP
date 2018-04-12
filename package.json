@@ -5,7 +5,6 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "cp-automation:toggle",
     "atom-workspace": "cp-automation:compile"
   },
   "repository": "https://github.com/atom/cp-automation",
@@ -15,6 +14,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "filehound": "^1.16.2",
     "fs": "0.0.1-security",
     "import": "0.0.6",
     "phantomjs-prebuilt": "^2.1.16",
