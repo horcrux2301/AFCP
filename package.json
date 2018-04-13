@@ -1,12 +1,17 @@
 {
-  "name": "cp-automation",
+  "name": "Codeforces Automation",
   "main": "./lib/cp-automation",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Automation for programming contests on Codechef",
+  "repository": "https://github.com/horcrux2301/Codeforces-Automation",
+  "author": "Harsh Khajuria",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "cp-automation:compile"
-  },
+	"atom-workspace": [
+		"cp-automation:toggle",
+		"cp-automation:compile"
+	]
+},
   "repository": "https://github.com/atom/cp-automation",
   "license": "MIT",
   "engines": {
