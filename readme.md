@@ -38,3 +38,11 @@ A folder will be created for each of the problems with their test cases in the d
 Press `alt+control+c` to compile. One output file will be generated for each and every file that starts with `input` in the folder where `.cpp` file is.
 
 # Packages
+
+Install the following packages.
+
+1. [autocomplete-clang](https://atom.io/packages/autocomplete-clang) - Autocompletion of C/C++ code.
+2. [gpp-compiler](https://atom.io/packages/gpp-compiler) - Compile C/C++ code from within Atom.
+3. [linter](https://atom.io/packages/linter) - Base Linter.
+4. [linter-ui-default](https://atom.io/packages/linter-ui-default) - Default UI for the linter package.
+5. [linter-clang](https://atom.io/packages/linter-clang) - Linter for C/C++ files.
