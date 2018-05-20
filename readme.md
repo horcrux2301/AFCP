@@ -37,4 +37,4 @@ A folder will be created for each of the problems with their test cases in the d
 
 Press `alt+control+c` to compile. One output file will be generated for each and every file that starts with `input` in the folder where `.cpp` file is.
 
-#Packages
+# Packages
