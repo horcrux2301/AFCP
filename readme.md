@@ -26,6 +26,8 @@ An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` . 
 **To fetch the problems and testcases**
 ---
 
+![Image](https://i.imgur.com/HRwTUOT.png)
+
 Press `alt+control+k` to open the pane. Check the site radio button and put the contest code into the input field. Press `Fetch Data` .
 
 A folder will be created for each of the problems with their test cases in the directory that you specify in the settings menu.
@@ -39,7 +41,7 @@ Press `alt+control+c` to compile. One output file will be generated for each and
 
 # Packages
 
-Install the following packages.
+Install the following packages for using atom to code in C/C++. To install them go to `Install` in `Preferences` and search them by typing their name.
 
 1. [autocomplete-clang](https://atom.io/packages/autocomplete-clang) - Autocompletion of C/C++ code.
 2. [gpp-compiler](https://atom.io/packages/gpp-compiler) - Compile C/C++ code from within Atom.
