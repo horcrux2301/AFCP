@@ -10,7 +10,7 @@ Atcoder | :white_check_mark:
 
 `Note:- The package has been tested for MacOS and Linux. Windows users can open a issue when they run into one.`
 
-[Never used atom for competing? Read this](# packages)
+[Never used atom for competing? Read this](#packages)
 
 ## Usage
 
