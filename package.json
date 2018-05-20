@@ -17,12 +17,18 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "asyncawait": "^1.0.6",
     "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.1.2",
+    "etch": "^0.14.0",
     "filehound": "^1.16.2",
     "fs": "0.0.1-security",
+    "getsy": "^0.9.2",
     "import": "0.0.6",
-    "phantomjs-prebuilt": "^2.1.16",
+    "nightmare": "^3.0.1",
+    "node-horseman": "^3.3.0",
     "python-shell": "^0.5.0",
+    "react": "^16.3.2",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
     "shelljs": "^0.8.1"

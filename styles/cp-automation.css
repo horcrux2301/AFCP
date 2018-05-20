@@ -1,0 +1,32 @@
+.top-div{
+  text-align: center;
+  padding: 10px;
+}
+
+.check-span{
+  padding: 10px;
+}
+
+.fetch-btn{
+  color: black;
+  border: none;
+  margin-left: 10px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.bottom-div{
+  text-align: center;
+  padding: 10px;
+}
+
+.contestcode-input{
+  border: none;
+  border-radius: 4px;
+  width: 150px;
+}
+
+.heading{
+  font-size: 15px;
+  text-align: center;
+}
