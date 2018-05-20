@@ -1,8 +1,8 @@
-######AFCP
+#### AFCP
 
-## AFCP is a Competitive Programming Contests Automation Package for text editor Atom.
+# AFCP is a Competitive Programming Contests Automation Package for text editor Atom.
 
-Sites Supported |
+Sites Supported | Yes
 ------------ | -------------
 Codechef | :white_check_mark:
 Codeforces | :white_check_mark:
