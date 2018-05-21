@@ -17,11 +17,15 @@ Codechef | :white_check_mark:
 Codeforces | :white_check_mark:
 Atcoder | :white_check_mark:
 
-`Note:- The package has been fairly tested for MacOS and Linux. However Windows users might face some issues. Please open one in the repo.`.
+`Note:- The package has been fairly tested for MacOS and Linux. However Windows users might face some issues. Please open one in the repo if you do.`.
 
 [Never used atom for competing? Read this](#packages)
 
 ## Installation
+
+Install package either by running `apm install afcp` from the terminal or by searching in the Install menu from Atom.
+
+You will also need to install the following to use the package properly.
 
 Linux -
 
