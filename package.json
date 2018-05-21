@@ -1,7 +1,7 @@
 {
   "name": "AFCP",
   "main": "./lib/cp-automation",
-  "version": "0.8.11",
+  "version": "0.8.12",
   "description": "Automation for programming contests.",
   "repository": "https://github.com/horcrux2301/AFCP",
   "author": "Harsh Khajuria",
