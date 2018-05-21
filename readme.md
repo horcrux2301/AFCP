@@ -22,7 +22,7 @@ Linux -
 MacOS-
 
 1. Install gcc. This can be done by installing Xcode or Command Line Developer Tools.
-2.
+2. Install coreutils. This can be done via homebrew. `brew install coreutils`.
 
 Windows -
 
@@ -41,6 +41,10 @@ Add directory locations for each site i.e where you want the folder for the prob
 
 An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` . Don't forget to add a `/` at the end of the location.
 
+You can drag and drop the folder into terminal to get the paths
+
+![Drag and drop](https://media3.giphy.com/media/1BhkrDJdeunDtXyjyX/giphy.gif)
+
 **To fetch the problems and testcases**
 ---
 
@@ -57,8 +61,8 @@ Site | Link | Code
 ------------ | ------------- | -------------
 Codechef | https://www.codechef.com/COOK94A | COOK94A
 Codechef | https://www.codechef.com/MAY18B | MAY18B
-Codeforces | http://codeforces.com/contest/354 | COOK94A
-Codeforces | http://codeforces.com/contest/354 | MAY18B
+Codeforces | http://codeforces.com/contest/354 | 354
+Codeforces | http://codeforces.com/contest/490 | 490
 Atcoder | https://arc097.contest.atcoder.jp/ | arc097
 Atcoder | https://agc024.contest.atcoder.jp/ | agc024
 
