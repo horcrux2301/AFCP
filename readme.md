@@ -2,7 +2,16 @@
 
 #### AFCP is a Competitive Programming Contests Automation Package for text editor Atom.
 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/horcrux2301/AFCP)
+[![Installs!](https://img.shields.io/apm/dm/afcp.svg?style=flat-square)](https://atom.io/packages/afcp)
+[![Package version!](https://img.shields.io/apm/v/afcp.svg?style=flat-square)](https://atom.io/packages/afcp)
+[![GitHub stars](https://img.shields.io/github/stars/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/stargazers)
+[![GitHub license](https://img.shields.io/github/license/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP)
+
+
+
+
 
 Sites Supported | Yes
 ------------ | -------------
