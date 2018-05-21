@@ -2,8 +2,6 @@
 
 #### AFCP is a Competitive Programming Contests Automation Package for text editor Atom.
 
-[![apm](https://img.shields.io/apm/dm/atom-beautify.svg)](https://atom.io/packages/afcp)
-[![Dependencies!](https://img.shields.io/david/steelbrain/Linter.svg?style=flat-square)](https://atom.io/packages/afcp)
 
 Sites Supported | Yes
 ------------ | -------------
