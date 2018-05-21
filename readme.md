@@ -51,6 +51,17 @@ Press `alt+control+k` to open the pane. Check the site radio button and put the 
 
 A folder will be created for each of the problems with their test cases in the directory that you specify in the settings menu.
 
+Examples(Codes are in bold).
+
+http://codeforces.com/contest/**350**
+http://codeforces.com/contest/**354**
+https://www.codechef.com/**MAY18B**
+https://www.codechef.com/**COOK94A**
+https://**agc024**.contest.atcoder.jp/
+https://**arc097**.contest.atcoder.jp/
+
+
+
 *In order to close the pane press again `ctrl+alt+k`*
 
 **To compile and create output files**
