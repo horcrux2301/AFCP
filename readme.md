@@ -12,6 +12,25 @@ Atcoder | :white_check_mark:
 
 [Never used atom for competing? Read this](#packages)
 
+## Installation
+---
+
+Linux -
+
+1. [Install gcc](https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91)
+2. Install coreutils
+
+MacOS-
+
+1. Install gcc. This can be done by installing Xcode or Command Line Developer Tools.
+2.
+
+Windows -
+
+1.
+2.
+
+
 ## Usage
 
 **Add the directory locations**
