@@ -17,7 +17,7 @@ Codechef | :white_check_mark:
 Codeforces | :white_check_mark:
 Atcoder | :white_check_mark:
 
-`Note:- The package has been tested for MacOS and Linux. Windows users can open a issue when they run into one.`
+`Note:- The package has been fairly tested for MacOS and Linux. However Windows users might face some issues. Please open one in the repo.`.
 
 [Never used atom for competing? Read this](#packages)
 
@@ -48,7 +48,9 @@ Add directory locations for each site i.e where you want the folder for the prob
 
 ![Image](https://i.imgur.com/x66KloC.png)
 
-An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` . Don't forget to add a `/` at the end of the location.
+An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` .
+
+**Important. Don't forget to add a `/`(for MacOS and Linux) or '\' (for Windows) at the end of the location.**
 
 You can drag and drop the folder into terminal to get the paths
 
