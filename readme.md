@@ -13,7 +13,6 @@ Atcoder | :white_check_mark:
 [Never used atom for competing? Read this](#packages)
 
 ## Installation
----
 
 Linux -
 
@@ -51,15 +50,17 @@ Press `alt+control+k` to open the pane. Check the site radio button and put the 
 
 A folder will be created for each of the problems with their test cases in the directory that you specify in the settings menu.
 
-Examples(Codes are in bold).
 
-http://codeforces.com/contest/**350**
-http://codeforces.com/contest/**354**
-https://www.codechef.com/**MAY18B**
-https://www.codechef.com/**COOK94A**
-https://**agc024**.contest.atcoder.jp/
-https://**arc097**.contest.atcoder.jp/
+#### Examples for Code of Contests.
 
+Site | Link | Code
+------------ | ------------- | -------------
+Codechef | https://www.codechef.com/COOK94A | COOK94A
+Codechef | https://www.codechef.com/MAY18B | MAY18B
+Codeforces | http://codeforces.com/contest/354 | COOK94A
+Codeforces | http://codeforces.com/contest/354 | MAY18B
+Atcoder | https://arc097.contest.atcoder.jp/ | arc097
+Atcoder | https://agc024.contest.atcoder.jp/ | agc024
 
 
 *In order to close the pane press again `ctrl+alt+k`*
