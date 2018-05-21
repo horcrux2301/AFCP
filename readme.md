@@ -43,7 +43,7 @@ An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` . 
 
 You can drag and drop the folder into terminal to get the paths
 
-![Drag and drop](https://i.imgur.com/24oNmfa.gifv)
+![Drag and drop](https://i.imgur.com/24oNmfa.gif)
 
 **To fetch the problems and testcases**
 ---
