@@ -30,3 +30,22 @@
   font-size: 15px;
   text-align: center;
 }
+
+.show-heading{
+  display: block;
+}
+
+.hide-heading{
+  display: none;
+}
+
+.show-fetching{
+  display: block;
+  font-size: 17px;
+  color: white;
+  text-align: center;
+}
+
+.hide-fetching{
+  display: none;
+}
