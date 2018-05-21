@@ -54,7 +54,7 @@ Add directory locations for each site i.e where you want the folder for the prob
 
 An example location can look like this:- `/Users/harshkhajuria/Desktop/TEST/` .
 
-**Important. Don't forget to add a `/`(for MacOS and Linux) or '\' (for Windows) at the end of the location.**
+**Important. Don't forget to add a `/`(for MacOS and Linux) or `\` (for Windows) at the end of the location.**
 
 You can drag and drop the folder into terminal to get the paths
 
