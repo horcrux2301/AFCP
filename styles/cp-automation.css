@@ -51,3 +51,36 @@
 .hide-fetching{
   display: none;
 }
+
+
+.addedText{
+  background-color: #bbff99;
+}
+
+.removedText{
+  background-color: #ffcccc;
+}
+
+.noneText{
+  background-color: rgb(40,44,52);
+}
+
+
+.files-list{
+  display: inline;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.files-list:hover{
+  background-color: white;
+  cursor: pointer;
+}
+
+.files-list-active{
+  background-color: white;
+}
+
+.files-list-div{
+  padding-bottom: 5px;
+}

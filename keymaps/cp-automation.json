@@ -1,6 +1,8 @@
 {
   "atom-workspace": {
     "ctrl-alt-k": "cp-automation:toggle",
-    "ctrl-alt-c": "cp-automation:compile"
+    "ctrl-alt-c": "cp-automation:compile",
+    "ctrl-alt-p": "cp-automation:diff",
+    "ctrl-alt-o": "cp-automation:removeDiff"
   }
 }

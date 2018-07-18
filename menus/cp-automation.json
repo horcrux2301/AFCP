@@ -8,6 +8,10 @@
       {
         "label": "Compile cp-automation",
         "command": "cp-automation:compile"
+      },
+      {
+        "label": "Diff cp-automation",
+        "command": "cp-automation:diff"
       }
     ]
   },

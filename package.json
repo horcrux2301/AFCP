@@ -9,7 +9,9 @@
   "activationCommands": {
     "atom-workspace": [
       "cp-automation:toggle",
-      "cp-automation:compile"
+      "cp-automation:compile",
+      "cp-automation:diff",
+      "cp-automation:removeDiff"
     ]
   },
   "license": "MIT",
@@ -18,9 +20,11 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "diff": "^3.5.0",
     "etch": "^0.14.0",
     "filehound": "^1.16.2",
     "fs": "0.0.1-security",
+    "jsdiff": "^1.1.1",
     "nightmare": "^3.0.1",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
