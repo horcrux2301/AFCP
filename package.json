@@ -19,6 +19,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
     "diff": "^3.5.0",
     "etch": "^0.14.0",
@@ -26,8 +27,13 @@
     "fs": "0.0.1-security",
     "jsdiff": "^1.1.1",
     "nightmare": "^3.0.1",
+    "node-exec-promise": "^1.0.2",
+    "performance-now": "^2.1.0",
+    "pidtree": "^0.3.0",
+    "ps-tree": "^1.1.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
-    "shelljs": "^0.8.1"
+    "shelljs": "^0.8.1",
+    "tree-kill": "^1.2.0"
   }
 }

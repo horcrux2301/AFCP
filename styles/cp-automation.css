@@ -75,12 +75,25 @@
 .files-list:hover{
   background-color: white;
   cursor: pointer;
+  color: black;
 }
 
 .files-list-active{
   background-color: white;
+  color: black;
 }
 
 .files-list-div{
   padding-bottom: 5px;
+}
+
+.main-div{
+  min-width: 300px;
+}
+
+.diff-view-header{
+  text-align: center;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
