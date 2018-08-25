@@ -8,6 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/issues)
 [![GitHub license](https://img.shields.io/github/license/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP)
+[![Made with Love in India](https://madewithlove.org.in/badge.svg)](https://madewithlove.org.in/)
 
 
 
