@@ -2,6 +2,7 @@
 
 #### AFCP is a Competitive Programming Contests Automation Package for text editor Atom.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/af512e94edba413e8f42936fb4d443b8)](https://app.codacy.com/app/horcrux2301/AFCP?utm_source=github.com&utm_medium=referral&utm_content=horcrux2301/AFCP&utm_campaign=Badge_Grade_Dashboard)
 [![Installs!](https://img.shields.io/apm/dm/afcp.svg?style=flat-square)](https://atom.io/packages/afcp)
 [![Package version!](https://img.shields.io/apm/v/afcp.svg?style=flat-square)](https://atom.io/packages/afcp)
 [![GitHub stars](https://img.shields.io/github/stars/horcrux2301/AFCP.svg)](https://github.com/horcrux2301/AFCP/stargazers)
