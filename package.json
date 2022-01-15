@@ -33,7 +33,7 @@
     "ps-tree": "^1.1.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "tree-kill": "^1.2.2"
   }
 }
